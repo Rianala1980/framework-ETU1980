@@ -17,5 +17,6 @@
     <input type="submit" value="Valider">
 </form>
 <a href="login.jsp"><h4>Login</h4></a>
+<a href="all">Voir tous</a>
 </body>
 </html>
